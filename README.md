@@ -28,11 +28,6 @@ This repository contains:
 - Uber Analytics - Cancellation Prediction.ipynb
 - README.md
 
-🔹How to Run 
-
-Clone the repository : git clone https://github.com/CharisKalamaris/Capstones.git
-
-
 🔹Author 
 👤Charalampos Kalamaris
 📧chariskalamaris@hotmail.com
